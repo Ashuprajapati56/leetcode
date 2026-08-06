@@ -7,11 +7,13 @@ public:
 
        }
        int index=0;
-       for(auto x:st){
-        nums[index]=x;
+       for(auto it = st.begin(); it != st.end(); it++){
+        nums[index]=*it;
         index++;
-       }
-       return index;
+    
+}
+ 
+      return index;
         
         
     }
