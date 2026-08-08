@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ashuprajapati56/leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Ashuprajapati56/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ashuprajapati56/leetcode/tree/master/0283-move-zeroes) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ashuprajapati56/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
