@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ashuprajapati56/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Ashuprajapati56/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashuprajapati56/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
