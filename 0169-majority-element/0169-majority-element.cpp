@@ -1,22 +1,38 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-   
-        for(int i=0; i<nums.size(); i++){
-           
-            int count = 0;
 
-            for(int j=0; j<nums.size(); j++){
-                
-                if(nums[i] == nums[j]){
-                    count++; 
-                }
-            }
+        int cnt = 0;
+        int el;
 
-            if(count > nums.size()/2){
-                return nums[i];
+        // Candidate find karna
+        for(int i = 0; i < nums.size(); i++) {
+
+            if(cnt == 0) {
+                el = nums[i];
+                cnt = 1;
             }
-        } 
-        return -1;  
+            else if(el == nums[i]) {
+                cnt++;
+            }
+            else {
+                cnt--;
+            }
+        }
+
+        // Candidate ki actual frequency check karna
+        int cnt1 = 0;
+
+        for(int i = 0; i < nums.size(); i++) {
+            if(el == nums[i]) {
+                cnt1++;
+            }
+        }
+
+        if(cnt1 > nums.size()/2) {
+            return el;
+        }
+
+        return -1;
     }
 };
