@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0268-missing-number) |
+| [2413-smallest-even-multiple](https://github.com/Ashuprajapati56/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ashuprajapati56/leetcode/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Ashuprajapati56/leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
