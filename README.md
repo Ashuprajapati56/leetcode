@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0268-missing-number) |
+| [1952-three-divisors](https://github.com/Ashuprajapati56/leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Ashuprajapati56/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Binary Search
 |  |
@@ -70,5 +71,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Ashuprajapati56/leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Ashuprajapati56/leetcode/tree/master/2413-smallest-even-multiple) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Ashuprajapati56/leetcode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Ashuprajapati56/leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Ashuprajapati56/leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
