@@ -12,7 +12,6 @@ public:
             digits[i] = 0;
         }
 
-        // Agar saare digits 9 the
         digits.insert(digits.begin(), 1);
 
         return digits;
