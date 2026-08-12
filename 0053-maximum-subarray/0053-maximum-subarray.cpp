@@ -3,7 +3,7 @@ public:
     int maxSubArray(vector<int>& nums) {
         int n = nums.size();
     int cs=0;
-    int maxsum=nums[0];
+    int maxsum=INT_MIN;
     for(int i=0;i<n;i++){
         cs+=nums[i];
         maxsum=max(cs,maxsum);
