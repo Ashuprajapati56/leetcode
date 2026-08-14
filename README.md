@@ -43,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ashuprajapati56/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Ashuprajapati56/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Ashuprajapati56/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Ashuprajapati56/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0268-missing-number) |
 | [1952-three-divisors](https://github.com/Ashuprajapati56/leetcode/tree/master/1952-three-divisors) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashuprajapati56/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashuprajapati56/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Ashuprajapati56/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
