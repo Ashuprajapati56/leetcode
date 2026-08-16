@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ashuprajapati56/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Ashuprajapati56/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Ashuprajapati56/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Ashuprajapati56/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ashuprajapati56/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ashuprajapati56/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Ashuprajapati56/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ashuprajapati56/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Ashuprajapati56/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ashuprajapati56/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0268-missing-number) |
 | [1952-three-divisors](https://github.com/Ashuprajapati56/leetcode/tree/master/1952-three-divisors) |
@@ -119,5 +121,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ashuprajapati56/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ashuprajapati56/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
