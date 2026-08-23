@@ -1,26 +1,28 @@
 class Solution {
 public:
     int mostFrequentEven(vector<int>& nums) {
-        unordered_map<int, int> temp;
+       
+        unordered_map<int, int> count;
+        int max_freq = 0;
+        int ans = -1;
+        
         for (int num : nums) {
             if (num % 2 == 0) {
-                temp[num]++;
+                count[num]++; // Increment count
+                
+                int current_freq = count[num];
+                
+                // Update ans dynamically if we find a better candidate
+                if (current_freq > max_freq || (current_freq == max_freq && num < ans)) {
+                    max_freq = current_freq;
+                    ans = num;
+                }
             }
         }
-        int ans = -1;
-        int max= INT_MIN;
-        for (auto it : temp) {
-            int num = it.first;
-            int freq = it.second;
-            if (freq > max) {
-                max = freq;
-                ans = num;
-            }
-            else if (freq == max && num < ans) {
-                ans = num;
-            }
-        }
-
+        
         return ans;
+      
+
+      
     }
 };
