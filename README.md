@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashuprajapati56/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Ashuprajapati56/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashuprajapati56/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2404-most-frequent-even-element](https://github.com/Ashuprajapati56/leetcode/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ashuprajapati56/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashuprajapati56/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2404-most-frequent-even-element](https://github.com/Ashuprajapati56/leetcode/tree/master/2404-most-frequent-even-element) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ashuprajapati56/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashuprajapati56/leetcode/tree/master/0229-majority-element-ii) |
+| [2404-most-frequent-even-element](https://github.com/Ashuprajapati56/leetcode/tree/master/2404-most-frequent-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
