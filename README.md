@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ashuprajapati56/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashuprajapati56/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0867-transpose-matrix](https://github.com/Ashuprajapati56/leetcode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ashuprajapati56/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashuprajapati56/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ashuprajapati56/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ashuprajapati56/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/Ashuprajapati56/leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Ashuprajapati56/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashuprajapati56/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Ashuprajapati56/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ashuprajapati56/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ashuprajapati56/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/Ashuprajapati56/leetcode/tree/master/0867-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
