@@ -197,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0912-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ashuprajapati56/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
