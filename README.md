@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Ashuprajapati56/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashuprajapati56/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Ashuprajapati56/leetcode/tree/master/1929-concatenation-of-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ashuprajapati56/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashuprajapati56/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/Ashuprajapati56/leetcode/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashuprajapati56/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ashuprajapati56/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ashuprajapati56/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2404-most-frequent-even-element](https://github.com/Ashuprajapati56/leetcode/tree/master/2404-most-frequent-even-element) |
 ## Math
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ashuprajapati56/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Ashuprajapati56/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Ashuprajapati56/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ashuprajapati56/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Greedy
 |  |
 | ------- |
