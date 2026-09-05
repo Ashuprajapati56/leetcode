@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ashuprajapati56/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashuprajapati56/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/Ashuprajapati56/leetcode/tree/master/2404-most-frequent-even-element) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/Ashuprajapati56/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Ashuprajapati56/leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Ashuprajapati56/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashuprajapati56/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/Ashuprajapati56/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ashuprajapati56/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashuprajapati56/leetcode/tree/master/0229-majority-element-ii) |
 | [2404-most-frequent-even-element](https://github.com/Ashuprajapati56/leetcode/tree/master/2404-most-frequent-even-element) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/Ashuprajapati56/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
