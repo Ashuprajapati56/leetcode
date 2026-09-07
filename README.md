@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Ashuprajapati56/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashuprajapati56/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Ashuprajapati56/leetcode/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/Ashuprajapati56/leetcode/tree/master/0645-set-mismatch) |
 | [0867-transpose-matrix](https://github.com/Ashuprajapati56/leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Ashuprajapati56/leetcode/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/Ashuprajapati56/leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ashuprajapati56/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashuprajapati56/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashuprajapati56/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Ashuprajapati56/leetcode/tree/master/0645-set-mismatch) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ashuprajapati56/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ashuprajapati56/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2404-most-frequent-even-element](https://github.com/Ashuprajapati56/leetcode/tree/master/2404-most-frequent-even-element) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Ashuprajapati56/leetcode/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
