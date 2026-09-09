@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Ashuprajapati56/leetcode/tree/master/0645-set-mismatch) |
 | [0867-transpose-matrix](https://github.com/Ashuprajapati56/leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0912-sort-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Ashuprajapati56/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ashuprajapati56/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ashuprajapati56/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Ashuprajapati56/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Ashuprajapati56/leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0912-sort-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Ashuprajapati56/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ashuprajapati56/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Hash Table
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ashuprajapati56/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ashuprajapati56/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0268-missing-number) |
+| [0976-largest-perimeter-triangle](https://github.com/Ashuprajapati56/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1952-three-divisors](https://github.com/Ashuprajapati56/leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Ashuprajapati56/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Binary Search
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ashuprajapati56/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashuprajapati56/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Ashuprajapati56/leetcode/tree/master/0561-array-partition) |
+| [0976-largest-perimeter-triangle](https://github.com/Ashuprajapati56/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -229,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Ashuprajapati56/leetcode/tree/master/0175-combine-two-tables) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Ashuprajapati56/leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Ashuprajapati56/leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
