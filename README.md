@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ashuprajapati56/leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Ashuprajapati56/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Ashuprajapati56/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ashuprajapati56/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0268-missing-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ashuprajapati56/leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Ashuprajapati56/leetcode/tree/master/0645-set-mismatch) |
