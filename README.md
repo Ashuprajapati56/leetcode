@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Ashuprajapati56/leetcode/tree/master/0645-set-mismatch) |
 | [0867-transpose-matrix](https://github.com/Ashuprajapati56/leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0912-sort-an-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ashuprajapati56/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/Ashuprajapati56/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Ashuprajapati56/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashuprajapati56/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashuprajapati56/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Ashuprajapati56/leetcode/tree/master/0645-set-mismatch) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ashuprajapati56/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ashuprajapati56/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ashuprajapati56/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2404-most-frequent-even-element](https://github.com/Ashuprajapati56/leetcode/tree/master/2404-most-frequent-even-element) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ashuprajapati56/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ashuprajapati56/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Ashuprajapati56/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
