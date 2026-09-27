@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Ashuprajapati56/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Ashuprajapati56/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ashuprajapati56/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Ashuprajapati56/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Ashuprajapati56/leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashuprajapati56/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ashuprajapati56/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Ashuprajapati56/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ashuprajapati56/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ashuprajapati56/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashuprajapati56/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -267,5 +269,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ashuprajapati56/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
