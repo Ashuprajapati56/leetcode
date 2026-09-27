@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Ashuprajapati56/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1137-n-th-tribonacci-number](https://github.com/Ashuprajapati56/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Ashuprajapati56/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1952-three-divisors](https://github.com/Ashuprajapati56/leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Ashuprajapati56/leetcode/tree/master/2413-smallest-even-multiple) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashuprajapati56/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ashuprajapati56/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Ashuprajapati56/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
@@ -271,4 +273,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashuprajapati56/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Ashuprajapati56/leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
