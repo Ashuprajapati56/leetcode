@@ -15,6 +15,6 @@ public:
         node->val = temp->val;
         node->next = temp->next;
 
-        delete temp;
+       // delete temp;
     }
 };
