@@ -274,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ashuprajapati56/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ashuprajapati56/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ashuprajapati56/leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Ashuprajapati56/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
