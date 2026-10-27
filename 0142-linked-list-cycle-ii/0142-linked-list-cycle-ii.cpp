@@ -11,6 +11,7 @@ public:
     ListNode *detectCycle(ListNode *head) {
         ListNode*s=head;
         ListNode*f=head;
+        bool flag=false;
 
 
 
@@ -19,9 +20,16 @@ public:
             s = s->next;
             f = f->next->next;
 
+
             if (s == f) {
-                // Step 2: Find the starting node of the cycle
-                ListNode* t = head;
+                flag = true;
+                break;
+            }
+            }
+             
+             if(flag==false) return NULL;
+         
+              else{  ListNode* t = head;
 
                 while (t != s) {
                     t = t->next;
@@ -29,10 +37,10 @@ public:
                 }
 
                 return t;
-            }
+            
         }
 
-        return NULL;
+        
     }
 };
 
